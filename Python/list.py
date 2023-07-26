@@ -22,3 +22,5 @@ moj_obiekt = MojaKlasa()
 print(moj_obiekt.publiczna_zmienna)  # Wyświetli 42
 print(moj_obiekt._nieoficjalna_zmienna)  # Wyświetli "To jest nieoficjalna zmienna"
 moj_obiekt.metoda()
+
+sheep_array.count
